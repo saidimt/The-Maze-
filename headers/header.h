@@ -151,7 +151,7 @@ texture_t wallTextures[NUM_TEXTURES];
 void WallTexturesready(void);
 void freeWallTextures(void);
 
-/* Functions-variables-structs for walls */
+/* Functions-variables-structs for Walls */
 
 void renderWall(void);
 
